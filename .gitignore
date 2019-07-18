@@ -1,0 +1,16 @@
+*$py.class
+*.cover
+*.py[cod]
+.cache
+.coverage
+.coverage.*
+.hypothesis/
+.nox/
+.pytest_cache/
+.python-version
+.tox/
+__pycache__/
+celerybeat-schedule
+coverage.xml
+htmlcov/
+nosetests.xml
