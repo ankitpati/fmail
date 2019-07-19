@@ -3,7 +3,6 @@
 
 from falcon import API, HTTP_200, HTTP_500
 from tasks.send_email import sendmail
-import sys
 
 
 class SendEmail:
