@@ -1,0 +1,4 @@
+amqp==2.5.0
+celery==4.3.0
+falcon==2.0.0
+gunicorn==19.9.0
